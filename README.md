@@ -6,7 +6,7 @@ Traditional methods of recruitment (CVs, cover letters, etc.) don't seem to be c
 
 In an industry where both technical knowledge, creativity and people skills are equally as important, it's no longer enough judge people against the limitations of their previous role, a discrete list of hard skills or where they went to school.
 
-These old methods of recruitment also uphold processes which are biased against certain attributes and backgrounds and can be a blocker in recruiting a diverse (in all the ways humans can be) teams. 
+These old methods of recruitment also uphold processes which are biased against certain attributes and backgrounds and can be a blocker in recruiting diverse (in all the ways humans can be) teams. 
 
 Great team members bring their individual differences as strengths, so why do we expect to recruit everyone the same old way?
 
